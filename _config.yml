@@ -1,0 +1,19 @@
+# quick sample yml for app testing
+
+# Site settings
+title: jaml test
+tagline: ezpz
+description:
+baseurl: ''
+url: 'https://example.com'
+
+# Build settings
+client:
+  intro: hello, my name is
+  name: jam
+  profession: doer of things
+  portrait_url: https://avatars.githubusercontent.com/u/42326027?v=4
+
+social:
+  - platform: GitHub
+    handle: benjammin4dayz
